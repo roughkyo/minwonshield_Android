@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">민원방패</string>
+    <string name="permission_button">통화·알림·오디오 권한 설정</string>
+    <string name="drive_folder_button">Google Drive 폴더 연결</string>
+    <string name="test_button">최근 통화 녹음 조회하기</string>
+    <string name="status_ready">준비 완료: 통화 종료를 기다리고 있습니다.</string>
+    <string name="status_permission_needed">먼저 통화·알림·오디오 권한을 허용해 주세요.</string>
+    <string name="status_drive_folder_needed">업로드할 Google Drive 폴더를 연결해 주세요.</string>
+    <string name="status_uploading">Google Drive에 업로드하고 있습니다.</string>
+    <string name="status_upload_failed">업로드에 실패했습니다. 다시 시도해 주세요.</string>
+    <string name="notification_channel">통화 종료 알림</string>
+    <string name="notification_title">통화 녹음을 올릴까요?</string>
+    <string name="notification_text">눌러서 녹음 파일을 선택하세요.</string>
+    <string name="recent_recording_title">최근 1시간 통화 녹음</string>
+    <string name="no_recent_recording">최근 1시간 안에 저장된 통화 녹음이 없습니다.</string>
+    <string name="audio_permission_needed">최근 통화 녹음을 조회하려면 오디오 권한이 필요합니다.</string>
+    <string name="drive_folder_connected">Google Drive 폴더가 연결되었습니다.</string>
+    <string name="drive_folder_not_selected">Google Drive 폴더가 선택되지 않았습니다.</string>
+    <string name="drive_authorization_failed">Google Drive 권한 연결에 실패했습니다.</string>
+    <string name="drive_upload_complete">Google Drive 업로드가 완료되었습니다.</string>
+    <string name="drive_upload_failed">Google Drive 업로드 실패</string>
+</resources>

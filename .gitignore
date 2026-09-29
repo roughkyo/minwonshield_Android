@@ -1,0 +1,35 @@
+# Android Studio와 Gradle이 다시 만드는 파일
+.gradle/
+.kotlin/
+.idea/
+*.iml
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# 개인 PC의 Android SDK 경로
+local.properties
+
+# 빌드 결과와 서명 파일
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# 키와 로컬 설정 파일
+google-services.json
+secrets.properties
+.env
+.env.*
+
+# 임시·백업·로그 파일
+*.bak
+*.tmp
+*.log
+*~
+
+# 운영체제 파일
+.DS_Store
+Thumbs.db
