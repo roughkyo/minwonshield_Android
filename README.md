@@ -334,7 +334,6 @@ const GEMINI_MODEL = 'gemini-3.5-flash-lite';
 - Drive 폴더 ID는 앱의 로컬 `SharedPreferences`에 저장합니다.
 - Drive 액세스 토큰은 메모리에서 업로드할 때만 사용하며 소스 코드에 저장하지 않습니다.
 - Gemini API 키는 Apps Script의 스크립트 속성에 저장합니다.
-- GitHub에 `local.properties`, 키스토어, API 키, OAuth 토큰, 실제 녹음 파일을 올리지 마세요.
 
 ## 10. 개발 확인 명령
 
