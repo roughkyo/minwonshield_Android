@@ -1,5 +1,7 @@
 # 민원방패 Android
 
+**Made by YangPhago**
+
 통화가 끝나면 알림을 보내고, 사용자가 선택한 최근 통화 녹음을 지정한 Google Drive 폴더에 업로드하는 Android 앱입니다. 함께 제공하는 Google Apps Script는 Drive에 올라온 녹음을 Gemini로 전사·분석하여 Google Sheets에 상담 기록을 만듭니다.
 
 > 이 앱은 통화를 직접 녹음하지 않습니다. 휴대전화가 이미 저장한 통화 녹음 파일을 사용자가 확인하고 선택했을 때만 Drive에 업로드합니다.
